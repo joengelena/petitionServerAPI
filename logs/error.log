@@ -1,0 +1,1033 @@
+2024-03-13 20:38:08:388 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 20:44:17:4417 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 20:59:54:5954 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-13 21:00:00:00 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 21:00:40:040 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 21:01:52:152 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 21:01:55:155 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 21:01:57:157 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 21:02:50:250 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 21:03:04:34 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 21:21:58:2158 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:21:59:2159 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:22:00:220 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:23:15:2315 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:23:19:2319 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 21:23:22:2322 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:26:02:262 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:26:03:263 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:28:02:282 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:28:03:283 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:28:05:285 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:32:25:3225 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:33:13:3313 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:33:15:3315 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:33:17:3317 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:31:4031 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:32:4032 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:32:4032 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:33:4033 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:35:4035 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:35:4035 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:36:4036 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:40:37:4037 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 21:41:00:410 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-13 22:21:11:2111 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:22:20:2220 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:22:22:2222 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:22:53:2253 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:26:13:2613 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:26:14:2614 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:26:14:2614 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:28:13:2813 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:28:14:2814 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:28:14:2814 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:29:57:2957 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:29:57:2957 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:30:08:308 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:30:09:309 [31merror[39m: [31mTable 'cjo108_assignment1.USER' doesn't exist[39m
+2024-03-13 22:31:31:3131 [31merror[39m: [31mUnknown column 'eauthToken' in 'where clause'[39m
+2024-03-13 22:31:56:3156 [31merror[39m: [31mUnknown column 'authToken' in 'where clause'[39m
+2024-03-13 22:31:57:3157 [31merror[39m: [31mUnknown column 'authToken' in 'where clause'[39m
+2024-03-13 22:32:43:3243 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2024-03-13 22:32:45:3245 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2024-03-13 22:33:03:333 [31merror[39m: [31mCannot set headers after they are sent to the client[39m
+2024-03-13 22:33:37:3337 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-13 22:33:38:3338 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-13 22:34:41:3441 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-13 22:34:46:3446 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-13 22:34:51:3451 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-13 22:34:53:3453 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-13 22:35:04:354 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 22:35:16:3516 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-13 22:36:30:3630 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 22:36:48:3648 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-13 22:36:53:3653 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 08:14:03:143 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 08:24:09:249 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 08:26:40:2640 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 08:26:41:2641 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 08:26:44:2644 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:26:45:2645 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:27:49:2749 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:28:41:2841 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:32:06:326 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:32:07:327 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:32:09:329 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 08:33:55:3355 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:34:24:3424 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:34:25:3425 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:34:25:3425 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-14 08:40:06:406 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 08:41:03:413 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 08:47:32:4732 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 08:56:06:566 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 09:24:43:2443 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 09:24:52:2452 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 17:39:27:3927 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 17:40:09:409 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 17:44:29:4429 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 17:44:29:4429 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 19:40:16:4016 [31merror[39m: [31mdata and salt arguments required[39m
+2024-03-14 19:43:12:4312 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 19:43:13:4313 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 19:43:14:4314 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 19:47:04:474 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 20:05:10:510 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'use SET password = '$2b$10$awOy3nW/VZm.R7qnbNDdrebSLTReo22jfYX7YfXYUSJvgQIh.C...' at line 1[39m
+2024-03-14 20:06:06:66 [31merror[39m: [31mCannot read properties of undefined (reading 'userId')[39m
+2024-03-14 20:20:50:2050 [31merror[39m: [31mCannot read properties of undefined (reading 'userId')[39m
+2024-03-14 20:48:26:4826 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 20:48:27:4827 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 20:48:58:4858 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 20:51:42:5142 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 20:51:42:5142 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 21:06:08:68 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-14 21:11:50:1150 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:13:57:1357 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:17:11:1711 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:22:32:2232 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:28:11:2811 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 37' at line 1[39m
+2024-03-14 22:28:38:2838 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 37' at line 1[39m
+2024-03-14 22:28:39:2839 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 37' at line 1[39m
+2024-03-14 22:29:17:2917 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:37:24:3724 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:39:42:3942 [31merror[39m: [31mCannot read properties of undefined (reading 'imageFilename')[39m
+2024-03-14 22:50:29:5029 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-14 22:50:30:5030 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-14 22:50:30:5030 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-15 15:41:45:4145 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-15 15:41:45:4145 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-15 15:42:05:425 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-15 15:42:05:425 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-15 15:42:21:4221 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-15 15:42:29:4229 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-15 15:48:10:4810 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:48:11:4811 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:48:11:4811 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:48:14:4814 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:55:13:5513 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-15 15:55:13:5513 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:55:13:5513 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 15:55:13:5513 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 17:40:36:4036 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-15 17:40:44:4044 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-15 17:40:57:4057 [31merror[39m: [31mCannot read properties of undefined (reading 'authToken')[39m
+2024-03-15 19:34:48:3448 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-15 19:34:49:3449 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-15 19:34:56:3456 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-15 19:36:01:361 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-16 19:45:22:4522 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? ORDER BY creation_date ASC' at line 1[39m
+2024-03-16 22:15:27:1527 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? ORDER BY creation_date ASC' at line 1[39m
+2024-03-16 22:23:20:2320 [31merror[39m: [31mDuplicate entry 'mike.wheeler@hawkinsmiddle.school.us' for key 'unique_key'[39m
+2024-03-16 22:23:20:2320 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-16 22:24:45:2445 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-16 22:24:46:2446 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-16 22:26:24:2624 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-16 22:26:25:2625 [31merror[39m: [31mCannot read properties of undefined (reading 'email')[39m
+2024-03-17 16:48:28:4828 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:48:31:4831 [31merror[39m: [31mUnknown table 'p' in field list[39m
+2024-03-17 16:48:34:4834 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:48:36:4836 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:48:39:4839 [31merror[39m: [31mUnknown table 'p' in field list[39m
+2024-03-17 16:48:41:4841 [31merror[39m: [31mUnknown table 'p' in field list[39m
+2024-03-17 16:48:45:4845 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:51:20:5120 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:51:55:5155 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:51:59:5159 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:51:59:5159 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:52:01:521 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:52:03:523 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:52:04:524 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-17 16:58:06:586 [31merror[39m: [31mUnknown table 'p' in field list[39m
+2024-03-18 16:04:01:41 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:04:05:45 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:04:22:422 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:04:50:450 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:06:20:620 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:06:24:624 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:11:17:1117 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:13:47:1347 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:16:06:166 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:06:166 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-18 16:16:07:167 [31merror[39m: [31mDuplicate entry '12345' for key 'PRIMARY'[39m
+2024-03-18 16:17:09:179 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:17:11:1711 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 16:22:26:2226 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:22:28:2228 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-18 16:22:30:2230 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-18 16:23:23:2323 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:31:35:3135 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:39:21:3921 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:46:02:462 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 16:51:44:5144 [31merror[39m: [31mCannot read properties of undefined (reading 'slice')[39m
+2024-03-18 17:25:35:2535 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-18 17:28:23:2823 [31merror[39m: [31mUnknown column 'numberOfSupports' in 'field list'[39m
+2024-03-18 17:29:21:2921 [31merror[39m: [31mUnknown column 'numberOfSupports' in 'field list'[39m
+2024-03-18 17:31:05:315 [31merror[39m: [31mUnknown column 'description' in 'where clause'[39m
+2024-03-18 17:31:32:3132 [31merror[39m: [31mUnknown column 'description' in 'where clause'[39m
+2024-03-18 17:32:33:3233 [31merror[39m: [31mUnknown column 'creation_da' in 'order clause'[39m
+2024-03-18 17:36:27:3627 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ownerId = '11' ORDER BY creation_date ASC' at line 1[39m
+2024-03-18 17:39:15:3915 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ownerId = '11' ORDER BY creationDate ASC' at line 1[39m
+2024-03-18 17:41:01:411 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ownerId = 11 ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 09:29:35:2935 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:04:304 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:06:306 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:07:307 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:09:309 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:53:3053 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:30:55:3055 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 09:31:06:316 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-19 10:10:40:1040 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 10:22:48:2248 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 10:22:53:2253 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 10:25:15:2515 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 10:27:54:2754 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 10:27:55:2755 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 10:34:48:3448 [31merror[39m: [31mUnknown column 'supportingCost' in 'field list'[39m
+2024-03-19 10:37:44:3744 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM allPetitions ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 10:37:45:3745 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM allPetitions ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 10:38:30:3830 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM allPetitions WHERE ORDER BY creationDa' at line 1[39m
+2024-03-19 10:38:54:3854 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM allPetitions WHERE ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 10:39:39:3939 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM allPetitions ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 10:44:51:4451 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 10:44:52:4452 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 10:44:59:4459 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 10:45:01:451 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 13:01:34:134 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 13:01:37:137 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-19 13:01:47:147 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 13:01:49:149 [31merror[39m: [31mConverting circular structure to JSON[39m
+[31m    --> starting at object with constructor 'ConnectionConfig'[39m
+[31m    |     property 'pool' -> object with constructor 'Pool'[39m
+[31m    |     property 'config' -> object with constructor 'PoolConfig'[39m
+[31m    --- property 'connectionConfig' closes the circle[39m
+2024-03-19 15:09:45:945 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 15:10:31:1031 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:11:15:1115 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:11:47:1147 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:12:17:1217 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:13:11:1311 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND supportingCost <= '10' ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 15:15:00:150 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'supportingCost <= '10' ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 15:17:57:1757 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:18:44:1844 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:19:37:1937 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-19 15:32:06:326 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE allPetitions.petitionId = t.peti...' at line 1[39m
+2024-03-19 15:33:35:3335 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS supportingCost AND supportingCost <= 10 ORDER BY creationDate ASC' at line 1[39m
+2024-03-19 15:44:37:4437 [31merror[39m: [31mUnknown column 'supporterId' in 'where clause'[39m
+2024-03-20 12:25:59:2559 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '? ORDER BY creationDate ASC' at line 1[39m
+2024-03-20 12:26:43:2643 [31merror[39m: [31mSubquery returns more than 1 row[39m
+2024-03-20 12:35:43:3543 [31merror[39m: [31mUnknown column 's.supporterId' in 'where clause'[39m
+2024-03-20 13:15:37:1537 [31merror[39m: [31mUnknown column 's.supporterId' in 'where clause'[39m
+2024-03-20 13:16:27:1627 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 13:24:56:2456 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 13:50:17:5017 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 13:50:19:5019 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 14:03:44:344 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:03:45:345 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:04:34:434 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:10:37:1037 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:11:09:119 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:12:35:1235 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:12:38:1238 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:13:09:139 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:14:41:1441 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:20:41:2041 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:33:08:338 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:33:38:3338 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:49:32:4932 [31merror[39m: [31mUnknown VIEW: 'cjo108_assignment1.allPetitions'[39m
+2024-03-20 14:55:35:5535 [31merror[39m: [31mUnknown VIEW: 'cjo108_assignment1.allPetitions'[39m
+2024-03-20 14:57:08:578 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 14:57:56:5756 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:15:01:151 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:15:07:157 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:15:32:1532 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:16:14:1614 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:16:56:1656 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:18:11:1811 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 16:19:26:1926 [31merror[39m: [31mUnknown column 'supporterId' in 'field list'[39m
+2024-03-20 18:02:55:255 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 18:02:55:255 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 18:02:55:255 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-20 18:02:55:255 [31merror[39m: [31mColumn 'title' in field list is ambiguous[39m
+2024-03-20 18:02:55:255 [31merror[39m: [31mColumn 'title' in field list is ambiguous[39m
+2024-03-20 20:13:21:1321 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:13:23:1323 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:16:12:1612 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:19:11:1911 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:19:12:1912 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:30:14:3014 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:31:18:3118 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:31:49:3149 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:35:36:3536 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 20:48:02:482 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 20:48:04:484 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 20:56:13:5613 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 20:56:31:5631 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 20:58:20:5820 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:00:47:047 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:01:50:150 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:03:17:317 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:08:36:836 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:09:23:923 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:09:25:925 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:29:27:2927 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:29:30:2930 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:29:34:2934 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:31:35:3135 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:37:08:378 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:37:27:3727 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 21:38:12:3812 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:39:16:3916 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 21:39:38:3938 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:11:45:1145 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:11:49:1149 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:12:43:1243 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:12:46:1246 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:12:49:1249 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 22:12:53:1253 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-20 22:12:56:1256 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:13:02:132 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:13:06:136 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-20 22:21:33:2133 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:21:38:2138 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:21:43:2143 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:21:47:2147 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:22:53:2253 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-20 22:22:57:2257 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 07:59:27:5927 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 08:06:46:646 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 08:07:02:72 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 08:11:15:1115 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 08:13:08:138 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 08:14:26:1426 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 08:14:29:1429 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 08:22:59:2259 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 08:36:13:3613 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 08:36:16:3616 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY creationDate ASC, petitionId ASC' at line 1[39m
+2024-03-21 08:36:54:3654 [31merror[39m: [31mUnknown VIEW: 'cjo108_assignment1.allPetitions'[39m
+2024-03-21 08:56:32:5632 [31merror[39m: [31mUnknown column 'allPetitions.petitionId' in 'where clause'[39m
+2024-03-21 08:57:31:5731 [31merror[39m: [31mUnknown column 'supportingCost' in 'where clause'[39m
+2024-03-21 09:08:58:858 [31merror[39m: [31mUnknown column 'supporterId' in 'where clause'[39m
+2024-03-21 09:11:40:1140 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 09:18:41:1841 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 09:22:11:2211 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 09:22:12:2212 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 09:26:19:2619 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1[39m
+2024-03-21 09:34:31:3431 [31merror[39m: [31mColumn 'petition_id' in order clause is ambiguous[39m
+2024-03-21 09:36:51:3651 [31merror[39m: [31mUnknown column 'supporting_cost' in 'order clause'[39m
+2024-03-21 09:43:20:4320 [31merror[39m: [31mUnknown column 'supporter_id' in 'where clause'[39m
+2024-03-21 09:44:26:4426 [31merror[39m: [31mUnknown column 'supporter_id' in 'where clause'[39m
+2024-03-21 09:44:39:4439 [31merror[39m: [31mUnknown column 'supporterId' in 'where clause'[39m
+2024-03-21 14:53:17:5317 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        1=1 ORDER BY creationDate ASC, p.id ASC' at line 2[39m
+2024-03-21 14:54:27:5427 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        1=1 ORDER BY p.creation_date ASC, p.id ASC' at line 2[39m
+2024-03-21 14:58:31:5831 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 14:58:34:5834 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-21 15:02:28:228 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY p.creation_date ASC, p.id ASC' at line 57[39m
+2024-03-21 15:03:02:32 [31merror[39m: [31mUnknown column 'p.creation_date' in 'order clause'[39m
+2024-03-21 15:08:26:826 [31merror[39m: [31mUnknown column 'supportingCost' in 'field list'[39m
+2024-03-21 15:12:39:1239 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY creationDate ASC, petitionId ASCp.id) AS row_num[39m
+[31m    FROM[39m
+[31m        pe...' at line 14[39m
+2024-03-21 15:13:36:1336 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY creationDate ASC, petitionId ASCp.id) AS row_num[39m
+[31m    FROM[39m
+[31m        pe...' at line 14[39m
+2024-03-21 15:15:08:158 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY creationDate ASC, petitionId ASC) AS row_num[39m
+[31m    FROM[39m
+[31m        petiti...' at line 14[39m
+2024-03-21 15:16:32:1632 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY p.creation_date ASC, p.id ASC) AS row_num[39m
+[31m    FROM[39m
+[31m        petition ...' at line 14[39m
+2024-03-21 15:17:41:1741 [31merror[39m: [31mUnknown column 'supportingCost' in 'field list'[39m
+2024-03-21 15:19:46:1946 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') AS row_num[39m
+[31m    FROM[39m
+[31m        petition p[39m
+[31m    JOIN[39m
+[31m        user u ON p.owner_i...' at line 13[39m
+2024-03-21 15:22:21:2221 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 15:22:27:2227 [31merror[39m: [31mTable 'cjo108_assignment1.allPetitions' doesn't exist[39m
+2024-03-21 15:46:09:469 [31merror[39m: [31mColumn 'title' in group statement is ambiguous[39m
+2024-03-21 15:46:16:4616 [31merror[39m: [31mUnknown column 's.user_id' in 'group statement'[39m
+2024-03-21 15:46:25:4625 [31merror[39m: [31mColumn 'title' in group statement is ambiguous[39m
+2024-03-21 15:46:39:4639 [31merror[39m: [31mColumn 'title' in group statement is ambiguous[39m
+2024-03-21 15:48:10:4810 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE 1=1 AND (title LIKE '%help%' OR description LIKE '%help%') ORDER BY cre...' at line 25[39m
+2024-03-21 15:49:35:4935 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ';[39m
+[31mJOIN[39m
+[31m    user u ON p.owner_id = u.id[39m
+[31mLEFT JOIN[39m
+[31m    ([39m
+[31m        SELECT petitio...' at line 14[39m
+2024-03-21 15:49:57:4957 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN[39m
+[31m    user u ON p.owner_id = u.id[39m
+[31mLEFT JOIN[39m
+[31m    ([39m
+[31m        SELECT petition_...' at line 16[39m
+2024-03-21 15:52:39:5239 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'JOIN[39m
+[31m    user u ON p.owner_id = u.id[39m
+[31mLEFT JOIN[39m
+[31m    ([39m
+[31m        SELECT petition_...' at line 16[39m
+2024-03-21 16:06:11:611 [31merror[39m: [31mColumn 'title' in where clause is ambiguous[39m
+2024-03-21 16:08:39:839 [31merror[39m: [31mColumn 'title' in where clause is ambiguous[39m
+2024-03-21 16:09:54:954 [31merror[39m: [31mUnknown column 's.user_id' in 'where clause'[39m
+2024-03-21 16:10:25:1025 [31merror[39m: [31mUnknown column 's.user_id' in 'where clause'[39m
+2024-03-21 16:11:36:1136 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 16:12:11:1211 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 16:28:49:2849 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 16:31:05:315 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?[39m
+[31m    GROUP BY[39m
+[31m        p.id, p.title, p.category_id, s.user_id, p.owner_id, u...' at line 25[39m
+2024-03-21 16:32:49:3249 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 16:33:16:3316 [31merror[39m: [31mUnknown column 's.user_id' in 'field list'[39m
+2024-03-21 16:34:38:3438 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' p.owner_id, u.first_name, u.last_name, p.creation_date ORDER BY creationDate...' at line 27[39m
+2024-03-21 16:36:29:3629 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 16:47:18:4718 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 16:50:59:5059 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 17:06:19:619 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 17:11:51:1151 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 18:50:19:5019 [31merror[39m: [31mField 'creation_date' doesn't have a default value[39m
+2024-03-21 18:51:23:5123 [31merror[39m: [31mField 'creation_date' doesn't have a default value[39m
+2024-03-21 19:05:41:541 [31merror[39m: [31mField 'owner_id' doesn't have a default value[39m
+2024-03-21 19:14:43:1443 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '?, ?)' at line 1[39m
+2024-03-21 20:03:16:316 [31merror[39m: [31mColumn 'owner_id' cannot be null[39m
+2024-03-21 20:04:55:455 [31merror[39m: [31mColumn 'owner_id' cannot be null[39m
+2024-03-21 20:26:53:2653 [31merror[39m: [31mDuplicate entry 'My new petition' for key 'title'[39m
+2024-03-21 20:26:53:2653 [31merror[39m: [31mDuplicate entry 'My newer petition' for key 'title'[39m
+2024-03-21 20:26:53:2653 [31merror[39m: [31mUnknown column 'title' in 'field list'[39m
+2024-03-21 20:26:53:2653 [31merror[39m: [31mUnknown column 'description' in 'field list'[39m
+2024-03-21 20:26:53:2653 [31merror[39m: [31mUnknown column 'category_id' in 'field list'[39m
+2024-03-21 20:29:55:2955 [31merror[39m: [31mINSERT INTO `user` (`email`, `first_name`, `last_name`, `image_filename`, `password`) VALUES ('k@gmail.com', 'Kristy', 'Lincoln', 'user_1.jpg', '$2b$10$HTfBx.6L9biAPO4TnP2NTOnvGUM./mFDUykVfKsteYH1AcDLqKKd6'), ('c.anagonye@stjohns.edu.au', 'Chidi', 'Anagonye', 'user_2.png', '$2b$10$gZhh.j/0N1TWrjMnrI/fNuWbk.MbeiBAeTTB6.0uvLIuencI/kTUu'), ('tahani.aljamil@ox.ac.uk', 'Tahani', 'Al-Jamil', 'user_3.gif', '$2b$10$hqMITS10F.8DkKGZh.N6l.wDoFROQ7XQ9jNcUKMrBZvjrPp9zz9h2'), ('e.shellstrop@hotmail.com', 'Eleanor', 'Shellstrop', 'user_4.jpg', '$2b$10$eE2mwy9vND9HvNquBYUjGOFnM4At.p4td.HK0DU2ua/L6YiwXWAmq'), ('B@gmail.com', 'Fernando', 'Brown', 'user_5.jpg', '$2b$10$Jx.XCixYLtS8lY2wk0D0SOVpjqEueG/.n.rcsFCxrodL7/I1lTw6S'), ('jeh128@mail.nz', 'Jack', 'Chen', 'user_6.jpg', '$2b$10$VjUxEkz9328D/mGEjJNpP.P.yTyqa2iiL1PxDF.Ugw6RmHua/bEvu'), ('a@gmail.com', 'Amanda', 'Faria', 'user_7.PNG', '$2b$10$9rvIxxEQBxzT5fEMyFpza.4B5zLwqADm8YUNTkgZu.uINCDfmYraO'), ('zhe25@mail.nz', 'Henry', 'Krippner', 'user_8.gif', '$2b$10$XSpDVw2OIO.z.Av35..ShefkADF327IuUDh1.JGJohffMoPJTH/BW'), ('lfg23@mail.nz', 'Ella', 'Yellow', 'user_9.PNG', '$2b$10$Wen.1.rJytAgMhGbhVczUubUlY.sNG8KnsA1KERXVprMKMMwy/3li'), ('ama541@mail.nz', 'Finn', 'Veale', NULL, '$2b$10$bSQMskcOHP1YYpJNksSa6e1RvVnTXQLHGlmEtGoJ5LGwl9joHzAjK'), ('boooooortles@hotmail.com', 'Jason', 'Mendoza', 'user_11.jpg', '$2b$10$7T2f2U2yyB1DibeEkcPaf.uSTvwrwo0Y06UIZF2NXP9PQMELg/ULi'), ('mindystclaire@gmail.com', 'Mindy', 'St. Claire', NULL, '$2b$10$Pt8kbgNZEBRydcVprAgZ0.x7N63GV4FiAzBLvSp72PCBSIP0LO6Um'), ('s.garnett@stjohns.edu.au', 'Simone', 'Garnett', NULL, '$2b$10$3oy/7amUM6C6HyVI/O4QdObx8N/IrOdgdiWzjbOHrWCqZMsCc7R/u'), ('pillboi@ymail.com', 'Steven', 'Peleaz', NULL, '$2b$10$pdhQD.MfjF9nmyF9c9cHVOzh2YV8IOyoDm79gWRoP9n4D/82eD/Uu'), ('larryhemsworth@gmail.com', 'Larry', 'Hemsworth', NULL, '$2b$10$F8BsRVVEG3OPLJTKQj5GAu2jK2fGUgjnq5MfI.Frxg8LXaw6TFkxG'), ('kamilah.aljamil@ox.ac.uk', 'Kamilah', 'Al-Jamil', NULL, '$2b$10$4t17G2DB/lgMrXrZe0GUz.Kv43apJl/omgI7.1NCcl5HQm6QkKIkG'), ('johnwheaton@gmail.com', 'John', 'Wheaton', NULL, '$2b$10$gFlOg2UFyiZh3ARDCFWXK.r3bAkNqynLRkhcdcBplscqAwbT/sq2a'), ('tane.mahuta@example.com', 'Tane', 'Taumata', NULL, '$2b$10$8SY2OJ5MiOAeGBD80hvLL.yMp9f4ygA.EyEQxUpw94U0/mEJydFQu'), ('bobbyjones@example.com', 'Bob', 'Jones', NULL, '$2b$10$1GST7CysG5q2dJqaUCc7c.BmigyWAm0QyFcy6MmUfYjCTh3aNTkme'), ('m@m.com', 'Morgan', 'English', 'user_20.jpeg', '$2b$10$QVj4TZsnFzASoKZWo742MOlCm1VezJdBLK4OjDH8vsaAA2Pqv.kfu')[39m
+2024-03-21 20:29:55:2955 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-21 20:49:12:4912 [31merror[39m: [31mUnknown column 'title' in 'field list'[39m
+2024-03-21 20:49:12:4912 [31merror[39m: [31mUnknown column 'description' in 'field list'[39m
+2024-03-21 20:49:12:4912 [31merror[39m: [31mUnknown column 'category_id' in 'field list'[39m
+2024-03-21 20:51:33:5133 [31merror[39m: [31mUnknown column 'title' in 'field list'[39m
+2024-03-21 20:56:09:569 [31merror[39m: [31mUnknown column 'title' in 'field list'[39m
+2024-03-21 21:02:34:234 [31merror[39m: [31mUnknown column 'title' in 'field list'[39m
+2024-03-21 21:02:34:234 [31merror[39m: [31mUnknown column 'description' in 'field list'[39m
+2024-03-21 21:02:34:234 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = '19'' at line 1[39m
+2024-03-21 21:11:34:1134 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:11:34:1134 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:19:53:1953 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:19:53:1953 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:30:45:3045 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:30:45:3045 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:31:12:3112 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:31:37:3137 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:32:50:3250 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:36:02:362 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:39:09:399 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:53:14:5314 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:54:58:5458 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:56:28:5628 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 21:57:30:5730 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 22:06:47:647 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = '19'' at line 1[39m
+2024-03-21 22:08:21:821 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-21 22:12:45:1245 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 22:12:46:1246 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 22:12:46:1246 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 22:18:13:1813 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 22:19:25:1925 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-21 22:21:18:2118 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = '19'' at line 1[39m
+2024-03-21 22:22:48:2248 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:26:20:2620 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:28:14:2814 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:29:26:2926 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:30:31:3031 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:31:39:3139 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:32:25:3225 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:32:55:3255 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 19' at line 1[39m
+2024-03-21 22:36:32:3632 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = 19' at line 1[39m
+2024-03-21 22:36:33:3633 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'updated petition, title = My updated petition, description = My updated petit...' at line 1[39m
+2024-03-21 22:37:46:3746 [31merror[39m: [31mDuplicate entry 'My new petition' for key 'title'[39m
+2024-03-21 22:37:46:3746 [31merror[39m: [31mDuplicate entry 'My newer petition' for key 'title'[39m
+2024-03-21 22:37:46:3746 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = 19' at line 1[39m
+2024-03-21 22:37:46:3746 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-21 22:37:46:3746 [31merror[39m: [31mDuplicate entry '12345' for key 'PRIMARY'[39m
+2024-03-21 22:38:05:385 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = 19' at line 1[39m
+2024-03-21 22:55:23:5523 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-21 22:55:23:5523 [31merror[39m: [31mDuplicate entry '12345' for key 'PRIMARY'[39m
+2024-03-21 22:56:11:5611 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-21 22:56:11:5611 [31merror[39m: [31mDuplicate entry '12345' for key 'PRIMARY'[39m
+2024-03-22 14:15:17:1517 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-22 14:15:17:1517 [31merror[39m: [31mCannot read properties of undefined (reading 'has')[39m
+2024-03-22 14:15:17:1517 [31merror[39m: [31mtitle.has is not a function[39m
+2024-03-22 14:15:17:1517 [31merror[39m: [31mtitle.has is not a function[39m
+2024-03-22 14:15:17:1517 [31merror[39m: [31mtitle.has is not a function[39m
+2024-03-22 14:33:12:3312 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-22 15:02:57:257 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-22 15:04:08:48 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-22 15:10:20:1020 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-22 16:54:20:5420 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:20:5420 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:20:5420 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:21:5421 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:21:5421 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:21:5421 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:21:5421 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:29:5429 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:29:5429 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:30:5430 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:30:5430 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:30:5430 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:30:5430 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-22 16:54:30:5430 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 12:19:46:1946 [31merror[39m: [31mENOENT: no such file or directory, unlink '/csse/users/cjo108/Desktop/SENG365/Assignment1/storage/images/user_21'[39m
+2024-03-23 12:19:57:1957 [31merror[39m: [31mENOENT: no such file or directory, unlink '/csse/users/cjo108/Desktop/SENG365/Assignment1/storage/images/user_21'[39m
+2024-03-23 12:21:25:2125 [31merror[39m: [31mINSERT INTO `user` (`email`, `first_name`, `last_name`, `image_filename`, `password`) VALUES ('k@gmail.com', 'Kristy', 'Lincoln', 'user_1.jpg', '$2b$10$Q.JndsuinabdqeNzVhb.i.GzT/tLd60i22AkV/mStgGhf/Z6wtPyO'), ('c.anagonye@stjohns.edu.au', 'Chidi', 'Anagonye', 'user_2.png', '$2b$10$spSE35atgbKM0sfdp3T1FOvIQ.q0ZZF5lA7S5G4SjCK2rVQG0/FG2'), ('tahani.aljamil@ox.ac.uk', 'Tahani', 'Al-Jamil', 'user_3.gif', '$2b$10$9wU1kJ30ufWbgYH3frhhH./68jA8NoYYMmMLa1thdpZ8qSB46rNUW'), ('e.shellstrop@hotmail.com', 'Eleanor', 'Shellstrop', 'user_4.jpg', '$2b$10$i1LP9UetFBUMheWusFmbj.yIXJMu0ZO28WVQsxD/GYG0M4ZRf.RJO'), ('B@gmail.com', 'Fernando', 'Brown', 'user_5.jpg', '$2b$10$PQG8.QtSNwnCyhHUKQoFY.8mvbnn8zRbIVsFqzO5TZ7B1pCEcW.hK'), ('jeh128@mail.nz', 'Jack', 'Chen', 'user_6.jpg', '$2b$10$SbNMKkc4lrziUVdPyP5U4edrFIePgtxhjuiiFAX9rMVRQXqZHZu0q'), ('a@gmail.com', 'Amanda', 'Faria', 'user_7.PNG', '$2b$10$pmFzTPx3PL/fFnT/l7hRSuY0LR65CaytWL2UEY1nSvcH7/W8MXDau'), ('zhe25@mail.nz', 'Henry', 'Krippner', 'user_8.gif', '$2b$10$KWdzaO6At5L4n7BQ/Xhwi.nkoC0FlQ/thYtbl6KQhymGup.segUSu'), ('lfg23@mail.nz', 'Ella', 'Yellow', 'user_9.PNG', '$2b$10$Jzwk62e5wS6JSNMSvVrmAO74PZSAxhwgN37aGZdtgnnRXk9nuYkJq'), ('ama541@mail.nz', 'Finn', 'Veale', NULL, '$2b$10$I7d58CSUUd7WxYEkEdUSouPNU3IStznzy.vhD9SclQS1HouA9zDaq'), ('boooooortles@hotmail.com', 'Jason', 'Mendoza', 'user_11.jpg', '$2b$10$XF5ns6GnAr9hjvVikFlkv.q7z47aNm7DzjT4d.9haxYuZETVP.8XW'), ('mindystclaire@gmail.com', 'Mindy', 'St. Claire', NULL, '$2b$10$49uXmSmvnQRPa5K9HnoaC.0SdZ7VG49K9Ko9DRrxxMqEdc2HfN5Y2'), ('s.garnett@stjohns.edu.au', 'Simone', 'Garnett', NULL, '$2b$10$aCWzDqqDmfNlsW/arbfuKekz4bBV.pF1m5SWrwjNTsim5archb9IC'), ('pillboi@ymail.com', 'Steven', 'Peleaz', NULL, '$2b$10$ZkxzkMED/hQA5ZKhlHMnwuC9BS3nA77FYVHFHHN/w5wn7nwTVTScG'), ('larryhemsworth@gmail.com', 'Larry', 'Hemsworth', NULL, '$2b$10$4jVGvqM84zvish2JJzs9q.uY1AHTE6eWag8pxsk7rScVHe0JhkO/W'), ('kamilah.aljamil@ox.ac.uk', 'Kamilah', 'Al-Jamil', NULL, '$2b$10$M1Zk/yJDmSR1vLHgrTsUxuDgham60LjsXWk1sXhhs8Edsr8nzyRnG'), ('johnwheaton@gmail.com', 'John', 'Wheaton', NULL, '$2b$10$kiIrdwarLgfi9HNjwwGIXe.kKyBSJYAVKvLgYZYtyol3GQ5J/WN3i'), ('tane.mahuta@example.com', 'Tane', 'Taumata', NULL, '$2b$10$QcmMue9y7phqH2cjT/YXAedtRPatNVI40JZbqRpyazipyKSruIWra'), ('bobbyjones@example.com', 'Bob', 'Jones', NULL, '$2b$10$4/J1Hw2E9VwL0MUVCbt2au0ysseGTadv0a6gujqJ0z9QxDlyjxzfW'), ('m@m.com', 'Morgan', 'English', 'user_20.jpeg', '$2b$10$BuPWggzH0NmVejY1bLMDbuOPcF3CBiUv4FOdclvvMAifriK3wmpke')[39m
+2024-03-23 12:21:25:2125 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-23 12:42:07:427 [31merror[39m: [31mENOENT: no such file or directory, unlink '/csse/users/cjo108/Desktop/SENG365/Assignment1/storage/images/user_21.jpeg,jpg,gif,png'[39m
+2024-03-23 13:10:54:1054 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 13:10:54:1054 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-23 13:11:09:119 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 13:11:18:1118 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-23 14:12:02:122 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-23 14:17:09:179 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (123456, 'example petition 2', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123456, 123456, 'example tier', 'example tier', 0);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123457, 123456, 'example tier 2', 'example tier 2', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (123456, 123456, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-23 14:17:09:179 [31merror[39m: [31mDuplicate entry '123456' for key 'PRIMARY'[39m
+2024-03-23 14:47:28:4728 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 15:23:59:2359 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-23 15:25:20:2520 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-23 15:26:16:2616 [31merror[39m: [31mCannot read properties of undefined (reading 'length')[39m
+2024-03-23 15:56:47:5647 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 15:56:47:5647 [31merror[39m: [31mDuplicate entry 'My newerer petition' for key 'title'[39m
+2024-03-23 17:51:05:515 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM[39m
+[31m        petition p[39m
+[31m    JOIN[39m
+[31m        user u ON p.owner_id = u.id[39m
+[31m    LEFT...' at line 12[39m
+2024-03-23 17:51:45:5145 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'FROM[39m
+[31m        petition p[39m
+[31m    JOIN[39m
+[31m        user u ON p.owner_id = u.id[39m
+[31m    LEFT...' at line 12[39m
+2024-03-23 17:52:42:5242 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 17:52:42:5242 [31merror[39m: [31mDuplicate entry 'My newerer petition' for key 'title'[39m
+2024-03-23 17:52:42:5242 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (123456, 'example petition 2', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123456, 123456, 'example tier', 'example tier', 0);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123457, 123456, 'example tier 2', 'example tier 2', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (123456, 123456, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-23 17:52:42:5242 [31merror[39m: [31mDuplicate entry '123456' for key 'PRIMARY'[39m
+2024-03-23 17:53:30:5330 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-23 17:53:30:5330 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-23 20:44:59:4459 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 20:44:59:4459 [31merror[39m: [31mDuplicate entry 'My newerer petition' for key 'title'[39m
+2024-03-23 20:45:15:4515 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 20:45:15:4515 [31merror[39m: [31mDuplicate entry 'My newerer petition' for key 'title'[39m
+2024-03-23 20:45:15:4515 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (123456, 'example petition 2', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123456, 123456, 'example tier', 'example tier', 0);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123457, 123456, 'example tier 2', 'example tier 2', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (123456, 123456, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-23 20:45:15:4515 [31merror[39m: [31mDuplicate entry '123456' for key 'PRIMARY'[39m
+2024-03-23 20:45:29:4529 [31merror[39m: [31mDuplicate entry 'My newest petition' for key 'title'[39m
+2024-03-23 20:45:29:4529 [31merror[39m: [31mDuplicate entry 'My newerer petition' for key 'title'[39m
+2024-03-23 20:45:29:4529 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (123456, 'example petition 2', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123456, 123456, 'example tier', 'example tier', 0);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123457, 123456, 'example tier 2', 'example tier 2', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (123456, 123456, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-23 20:45:29:4529 [31merror[39m: [31mDuplicate entry '123456' for key 'PRIMARY'[39m
+2024-03-23 20:59:40:5940 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (123456, 'example petition 2', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123456, 123456, 'example tier', 'example tier', 0);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (123457, 123456, 'example tier 2', 'example tier 2', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (123456, 123456, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-23 20:59:40:5940 [31merror[39m: [31mDuplicate entry '123456' for key 'PRIMARY'[39m
+2024-03-23 21:26:51:2651 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 9999' at line 1[39m
+2024-03-23 21:53:19:5319 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-23 21:53:19:5319 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-23 21:53:24:5324 [31merror[39m: [31mFUNCTION cjo108_assignment1.JSON_ARRAYAGG does not exist[39m
+2024-03-24 10:52:22:5222 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 10:55:53:5553 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-24 10:57:37:5737 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-24 11:01:58:158 [31merror[39m: [31mCannot read properties of undefined (reading 'ownerId')[39m
+2024-03-24 11:19:41:1941 [31merror[39m: [31mDuplicate entry 'My newer petition' for key 'title'[39m
+2024-03-24 11:19:42:1942 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-24 11:19:42:1942 [31merror[39m: [31mDuplicate entry '12345' for key 'PRIMARY'[39m
+2024-03-24 11:46:30:4630 [31merror[39m: [31mUnknown column 'auth_token' in 'where clause'[39m
+2024-03-24 12:03:23:323 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 12:03:23:323 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 12:03:39:339 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 12:03:39:339 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 12:20:49:2049 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-24 12:20:49:2049 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-25 09:59:29:5929 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-25 09:59:29:5929 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-25 10:04:49:449 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-25 10:07:54:754 [31merror[39m: [31mField 'petition_id' doesn't have a default value[39m
+2024-03-25 10:11:19:1119 [31merror[39m: [31mField 'user_id' doesn't have a default value[39m
+2024-03-25 10:13:33:1333 [31merror[39m: [31mField 'user_id' doesn't have a default value[39m
+2024-03-25 15:17:25:1725 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:23:29:2329 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:23:39:2339 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:23:49:2349 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:27:12:2712 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:30:28:3028 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:42:47:4247 [31merror[39m: [31mUnknown column 'user_id' in 'where clause'[39m
+2024-03-25 15:44:43:4443 [31merror[39m: [31mDuplicate entry '12346-21' for key 'support_tier_id'[39m
+2024-03-25 15:45:21:4521 [31merror[39m: [31mDuplicate entry '12346-21' for key 'support_tier_id'[39m
+2024-03-25 15:47:17:4717 [31merror[39m: [31mDuplicate entry '12346-21' for key 'support_tier_id'[39m
+2024-03-25 15:50:53:5053 [31merror[39m: [31mDuplicate entry '12346-21' for key 'support_tier_id'[39m
+2024-03-25 15:53:24:5324 [31merror[39m: [31mDuplicate entry '1-21' for key 'support_tier_id'[39m
+2024-03-25 15:56:35:5635 [31merror[39m: [31mDuplicate entry '12346-21' for key 'support_tier_id'[39m
+2024-03-26 10:19:40:1940 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-26 10:41:25:4125 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-26 10:48:34:4834 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = '1'' at line 1[39m
+2024-03-26 10:49:34:4934 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'id = 1' at line 1[39m
+2024-03-26 10:50:11:5011 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:52:14:5214 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:54:44:5444 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:55:08:558 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:55:08:558 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-26 10:55:48:5548 [31merror[39m: [31mUnknown column 'NaN' in 'where clause'[39m
+2024-03-26 10:57:25:5725 [31merror[39m: [31mTable 'cjo108_assignment1.user' doesn't exist[39m
+2024-03-26 10:57:25:5725 [31merror[39m: [31mINSERT INTO `user` (`email`, `first_name`, `last_name`, `image_filename`, `password`) VALUES ('k@gmail.com', 'Kristy', 'Lincoln', 'user_1.jpg', '$2b$10$JzVcIr1BujEi01Ftzo/Pc.n7vlop8yWCKuRb.9K62W7NlLRmBgQ5e'), ('c.anagonye@stjohns.edu.au', 'Chidi', 'Anagonye', 'user_2.png', '$2b$10$4OLkcyLF0n80VyzP0.DQh.tgjfnCoHimkO9Qq8j0RVGDIjsTcQjt6'), ('tahani.aljamil@ox.ac.uk', 'Tahani', 'Al-Jamil', 'user_3.gif', '$2b$10$jYa7FKfx9WI5PO2LpbRcde0BZyKvJpgjb18hrGo2oLvoDJmS4Eb86'), ('e.shellstrop@hotmail.com', 'Eleanor', 'Shellstrop', 'user_4.jpg', '$2b$10$ptTpk8NHz6cys5bjcExqAuHHJmIOuJvjU00T/8Edbe9821V.OvpjS'), ('B@gmail.com', 'Fernando', 'Brown', 'user_5.jpg', '$2b$10$pBT0JhbVz5eZC7ttTu0o5OeNKpCqhjTNy3YAec2513z0yB5frLSqS'), ('jeh128@mail.nz', 'Jack', 'Chen', 'user_6.jpg', '$2b$10$X4eYzVldzRyax5LnETevse7yu6sXxQ4e9n/R0ZGAOaa/uV35nNssK'), ('a@gmail.com', 'Amanda', 'Faria', 'user_7.PNG', '$2b$10$HY.8njncbInepl4fO/r7h.653pj.66KWd/G.cBgEHFHSOotvKWWTW'), ('zhe25@mail.nz', 'Henry', 'Krippner', 'user_8.gif', '$2b$10$6CMLbFiwGoniCvu6n4peOukd5X1uIPsf8PSgJtUMHBf1lyCAWt3wy'), ('lfg23@mail.nz', 'Ella', 'Yellow', 'user_9.PNG', '$2b$10$zM3MUOcahv62hvaZjnQDaecAWAnKQiIxotSg4MSa2N4qPiQg8M7/O'), ('ama541@mail.nz', 'Finn', 'Veale', NULL, '$2b$10$3JW1Ej9Qr7YvWzUoRKxIrOe4Ev.F9kyU2Wthf5mxjwtXAXpPXknUC'), ('boooooortles@hotmail.com', 'Jason', 'Mendoza', 'user_11.jpg', '$2b$10$o20glMAz.O9/SVXP9RlhceQZRIjst1hvFUYEmgTjN.b2PMQSoyMTC'), ('mindystclaire@gmail.com', 'Mindy', 'St. Claire', NULL, '$2b$10$N5G1K.icsPioaSimzZQZh.GuC0hJxJNP/c7FAYk7tE7x5tEw8.pb2'), ('s.garnett@stjohns.edu.au', 'Simone', 'Garnett', NULL, '$2b$10$IjzvC2/vuSbsTdljK4RR9uRlCZhhB5/HuGyvJMaAbCNmw/MT3gaha'), ('pillboi@ymail.com', 'Steven', 'Peleaz', NULL, '$2b$10$PX8J4q5J9oi..nCqEOdphOgcmjoFFBPrjJ3jP9HNdBgonNg7XSv0.'), ('larryhemsworth@gmail.com', 'Larry', 'Hemsworth', NULL, '$2b$10$WV5K0/7yvyH3Y0HkBUyLkeRK1v4.M7PvD0Q49hhckK/mHIU/3acvK'), ('kamilah.aljamil@ox.ac.uk', 'Kamilah', 'Al-Jamil', NULL, '$2b$10$TXfD07VdTkTH3ach0TPyuOpd9x6HKLWCb2guA64x05OY5BypMGWwa'), ('johnwheaton@gmail.com', 'John', 'Wheaton', NULL, '$2b$10$UiGnZeFUticZ56qb8qfbN.0CzSUuxhnufTCOZ0Qwmk9Cq/Y/pyqXy'), ('tane.mahuta@example.com', 'Tane', 'Taumata', NULL, '$2b$10$MTWe1nABHSg/ePyoTmifC.KLVzXBICrty76pC7Blmw0pXKcnexPpa'), ('bobbyjones@example.com', 'Bob', 'Jones', NULL, '$2b$10$7z60m4VDz/m5oWJinh1qWOYC6Q1oqCDEI3tDlaeyW5sicKR89ogQC'), ('m@m.com', 'Morgan', 'English', 'user_20.jpeg', '$2b$10$lEVYynWtdg22SriTsUBzW.yFqRUOIP82Uoc.yn.7QrMdbhNHkxb.O')[39m
+2024-03-26 10:57:25:5725 [31merror[39m: [31mDuplicate entry 'k@gmail.com' for key 'unique_key'[39m
+2024-03-26 10:57:26:5726 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:57:36:5736 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 10:58:55:5855 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 12:03:04:34 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 12:03:50:350 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 12:04:46:446 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE id = 1' at line 1[39m
+2024-03-26 12:42:32:4232 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-26 12:44:15:4415 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-26 12:44:28:4428 [31merror[39m: [31mdata and hash arguments required[39m
+2024-03-26 15:05:49:549 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') FROM support_tier st WHERE st.petition_id = p.id ) AS moneyRaised[39m
+[31m    FROM[39m
+[31m...' at line 11[39m
+2024-03-26 15:07:25:725 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-26 15:07:25:725 [31merror[39m: [31mINSERT INTO `petition` (`id`, `title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES (12345, 'example petition', 'example description', '2023-10-18 10:10:00', 'petition_3.jpg', 21, 2);[39m
+[31mINSERT INTO `support_tier` (`id`, `petition_id`, `title`, `description`, `cost`) VALUES (12345, 12345, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12345, 12345, 1, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31m[39m
+2024-03-26 15:07:25:725 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_1` FOREIGN KEY (`owner_id`) REFERENCES `user` (`id`))[39m
+2024-03-26 15:07:47:747 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-26 15:08:03:83 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 9999' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 9999' at line 2[39m
+2024-03-27 17:36:37:3637 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 2[39m
+2024-03-27 17:36:38:3638 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 2[39m
+2024-03-27 17:36:38:3638 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 2[39m
+2024-03-27 17:36:38:3638 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 2[39m
+2024-03-27 17:36:40:3640 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 2[39m
+2024-03-27 17:36:56:3656 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 2[39m
+2024-03-27 17:37:31:3731 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 24[39m
+2024-03-27 17:37:31:3731 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 9999' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 9999' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 19' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 24[39m
+2024-03-27 17:37:32:3732 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 12346' at line 24[39m
+2024-03-27 17:37:34:3734 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 24[39m
+2024-03-27 17:37:43:3743 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE[39m
+[31m        p.id = 1' at line 24[39m
+2024-03-27 17:43:26:4326 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-27 17:43:26:4326 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-27 17:44:47:4447 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AS INT),[39m
+[31m        0) AS moneyRaised[39m
+[31m    FROM[39m
+[31m        petition p[39m
+[31m    JOIN `user...' at line 11[39m
+2024-03-27 17:59:01:591 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-27 17:59:02:592 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 10:02:00:20 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 10:02:01:21 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 10:04:59:459 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 10:05:00:50 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 10:09:54:954 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 10:09:54:954 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 10:10:29:1029 [31merror[39m: [31mINSERT INTO `category` (`id`, `name`) VALUES (1, 'Wildlife');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (2, 'Environmental Causes');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (3, 'Animal Rights');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (4, 'Health and Wellness');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (5, 'Education');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (6, 'Human Rights');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (7, 'Technology and Innovation');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (8, 'Arts and Culture');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (9, 'Community Development');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (10, 'Economic Empowerment');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (11, 'Science and Research');[39m
+[31mINSERT INTO `category` (`id`, `name`) VALUES (12, 'Sports and Recreation');[39m
+
+[31m# Petition 1[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Mental Health Awareness in Schools', 'Help us promote and integrate mental health awareness programs into the NCEA curricula to support the well-being of students.', "2023-02-20 09:15:00", 'petition_1.png', 1, 5);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (1, 'Show your support', 'Supporting at the free tier helps promote our cause, thank you.', 0);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (1, 'Gold supporter', 'Supporting helps at this tier helps fund our operation so we can increase the number of schools we support directly.\n You will receive a personalized thank-you letter from us.', 25);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (1, 'Become part of the extended family', "Supporting at this tier helps fund our operation so we can increase the number of schools we support directly.\n Your name will be immortalised on the 'family' wall in our head office.", 150);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (1, 1, 2, 'Love the cause', '2023-03-20 12:15:18');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`,  `timestamp`) VALUES (1, 1, 3, null, '2023-03-29 15:26:32');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (1, 2, 4, 'Keep up the great work!', '2023-04-05 10:05:47');[39m
+
+[31m# Petition 2[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Christchurch Wildlife Conservation', 'Support conservation efforts to protect endangered species and their natural habitats within and around Otautahi Christchurch.', "2023-02-20 09:15:00", 'petition_2.png', 2, 2);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (2, 'Save a tree', 'With your donation we can save a native tree', 15);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (2, 4, 3, 'Hope my tree helps!', '2023-03-07 22:48:01');[39m
+
+[31m# Petition 3[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Renewable Energy Newsletter', "Stay up to date with the most recent developments in New Zealand's advancements in renewable energy", "2023-10-18 10:10:00", 'petition_3.jpg', 3, 2);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (3, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (3, 5, 4, 'Interesting stuff', '2023-11-07 06:59:58');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (3, 5, 6, null, '2023-11-07 16:15:35');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (3, 5, 7, null, '2023-11-07 12:38:00');[39m
+
+[31m# Petition 4[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Science Video Creation', "Hi all, I create online videos going into recent advancements in science. You can see my free videos on Youtube", "2023-08-01 09:00:00", 'petition_4.png', 8, 11);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (4, 'Tip me a coffee', 'A little tip helps me keep doing this as my day job, thanks!', 5);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (4, 'Join the club', 'Join the club of other like minded individuals, getting exclusive access to a monthly Zoom lecture and extra videos', 15);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (4, 'Mad Scientist', 'Get rewards from lower tiers and be part of an exclusive monthly zoom discussion where you can suggest and help with video ideas', 150);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (4, 6, 1, null, '2023-09-07 20:22:45');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (4, 6, 3, null, '2023-10-01 17:15:32');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (4, 6, 4, null, '2023-12-18 11:37:58');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (4, 7, 4, "Love your content, looking forward to those lectures <3", '2023-12-18 11:38:26');[39m
+
+[31m# Petition 5[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Evergreen-High Baseball Team Fundraiser', "Help us fundraise to play baseball on the international stage at the 2024 High-School Champs Tournament in Japan", "2024-01-11 08:33:00", 'petition_5.png', 9, 12);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (5, 'Bronze Supporter', 'Every little bit helps!', 5);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (5, 'Silver Supporter', 'Every little bit helps!', 10);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (5, 'Gold Supporter', 'Every little bit helps!', 20);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (5, 11, 1, "GO EVERGREEN!!", '2024-01-12 21:18:59');[39m
+
+[31m# Petition 6[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Avonbush Natural Park', "Come and experience the great outdoors at Avonbush Natural Park", "2022-12-11 11:56:12", 'petition_6.png', 3, 1);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (6, 'Join the newsletter', 'Sign-up to receive the monthly newsletter', 0);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (6, 'Support the park', "Help fund the operation of the park into the future, you'll get your name included on a plaque by the entrance", 100);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (6, 13, 2, "Great wee park to take the family for a walk", '2023-01-20 16:00:16');[39m
+
+[31m# Petition 7 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Community Garden Expansion', 'Help us expand our community garden to provide more fresh produce for local residents and food banks.', "2023-05-15 14:30:00", 'petition_7.png', 5, 9);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (7, 'Seed Sower', 'Contribute to our garden by sponsoring a packet of seeds.', 5);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (7, 'Garden Guardian', 'Become a Garden Guardian and receive a personalized thank-you card and a small basket of fresh produce.', 20);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (7, 'Harvest Hero', 'Be a Harvest Hero and receive a VIP tour of our expanded garden plus a large basket of fresh produce.', 50);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (7, 14, 6, 'Excited to see the garden grow!', '2023-06-01 11:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (7, 15, 7, null, '2023-06-10 08:30:15');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (7, 16, 8, 'Looking forward to the VIP tour!', '2023-06-25 14:12:30');[39m
+
+[31m# Petition 8 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Youth Coding Bootcamp', 'Fund a coding bootcamp for local youth to learn valuable programming skills.', "2023-07-02 10:00:00", 'petition_8.png', 10, 7);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (8, 'Coding Enthusiast', 'Support one student to attend the bootcamp.', 50);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (8, 'Tech Advocate', 'Sponsor two students to attend the bootcamp.', 100);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (8, 'Future Developer', 'Sponsor three students to attend the bootcamp and receive a thank-you video from the students.', 150);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (8, 17, 11, 'Happy to support education in technology!', '2023-07-15 09:30:45');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (8, 18, 12, null, '2023-07-22 14:20:10');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (8, 19, 13, 'Excited to see the next generation of developers!', '2023-08-05 11:05:22');[39m
+
+[31m# Petition 9 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Community Book Exchange', 'Create a community book exchange to promote literacy and share the love of reading.', "2023-08-15 16:45:00", 'petition_9.png', 14, 8);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (9, 'Book Lover', 'Contribute to the book exchange and receive a personalized bookmark.', 10);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (9, 'Library Guardian', 'Sponsor a bookshelf for the exchange and have your name displayed as a Library Guardian.', 25);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (9, 20, 15, 'Excited to see the community come together!', '2023-09-01 13:20:45');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (9, 21, 16, 'Happy to support literacy initiatives!', '2023-09-05 10:15:30');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (9, 21, 17, null, '2023-09-10 16:40:12');[39m
+
+[31m# Petition 10 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Local Art Exhibition', 'Support a local art exhibition showcasing the talent of emerging artists in our community.', "2023-10-01 14:00:00", 'petition_10.png', 12, 8);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (10, 'Art Enthusiast', 'Contribute to the exhibition and receive a digital art print from one of the featured artists.', 20);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (10, 'Patron of the Arts', 'Become a Patron of the Arts and receive VIP access to the exhibition opening night.', 50);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (10, 22, 18, 'Excited to see the local talent!', '2023-10-10 09:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (10, 22, 1, null, '2023-10-12 15:20:35');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (10, 23, 2, null, '2023-10-18 12:00:00');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (10, 23, 3, 'Looking forward to the VIP night!', '2023-10-25 18:30:45');[39m
+
+[31m# Petition 11 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Clean Water Initiative', 'Support efforts to provide clean and safe drinking water to rural communities in need.', "2023-11-05 11:30:00", 'petition_11.png', 13, 2);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (11, 'Droplet Donor', 'Contribute to the clean water initiative and receive a personalized thank-you card.', 15);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (11, 24, 4, 'Clean water for all!', '2023-11-10 08:15:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (11, 24, 5, 'Happy to make a difference!', '2023-11-12 14:30:40');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (11, 24, 6, null, '2023-11-18 10:00:00');[39m
+
+[31m# Petition 12 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Local Music Festival', 'Support a local music festival featuring talented musicians from our community.', "2023-12-01 17:00:00", 'petition_12.png', 16, 8);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (12, 'Music Fan', 'Contribute to the festival and receive a digital playlist of songs from the featured artists.', 10);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (12, 'Backstage Pass', 'Get a Backstage Pass and enjoy VIP access during the festival, including meet and greet opportunities.', 30);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12, 25, 7, 'Excited for the music festival!', '2023-12-05 12:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12, 25, 8, null, '2023-12-08 09:30:15');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (12, 26, 9, 'Looking forward to the backstage experience!', '2023-12-15 14:12:30');[39m
+
+[31m# Petition 13 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Green Energy Community Project', 'Support the development of green energy initiatives in our community to reduce carbon emissions.', "2024-01-15 10:30:00", 'petition_13.png', 15, 3);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (13, 'Eco Warrior', 'Contribute to the green energy project and receive a reusable eco-friendly shopping bag.', 20);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (13, 'Renewable Advocate', 'Sponsor a solar panel installation and receive a personalized certificate of appreciation.', 50);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (13, 27, 10, "Let\'s go green!", '2024-01-20 11:15:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (13, 27, 11, null, '2024-01-25 14:30:40');[39m
+
+[31m# Petition 14 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Youth Leadership Development Program', 'Empower the youth in our community by supporting a leadership development program.', "2024-02-01 14:00:00", 'petition_14.png', 17, 6);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (14, 'Leadership Advocate', 'Contribute to the program and receive a thank-you letter from the youth participants.', 30);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (14, 'Mentorship Champion', 'Sponsor a mentorship session for a young leader and receive recognition in program materials.', 75);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (14, 'Youth Ambassador', 'Become a Youth Ambassador and have the opportunity to attend a special recognition event with the young leaders.', 150);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (14, 29, 12, 'Excited to support youth leadership!', '2024-02-05 09:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (14, 30, 13, null, '2024-02-10 08:30:15');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (14, 31, 14, 'Looking forward to the recognition event!', '2024-02-15 14:12:30');[39m
+
+[31m# Petition 15 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Community Clean-Up Day', 'Join us in making our community clean and beautiful by participating in the upcoming clean-up day.', "2024-03-01 09:00:00", 'petition_15.png', 14, 9);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (15, 'Community Hero', 'Sign up for free and be recognized as a Community Hero for participating in the clean-up day.', 0);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (15, 32, 15, 'Excited to contribute to a cleaner community!', '2024-03-05 11:15:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (15, 32, 16, null, '2024-03-08 14:30:40');[39m
+
+[31m# Petition 16 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Local History Preservation', 'Support the preservation of our local history by contributing to the digitization of historical documents and artifacts.', "2024-03-10 10:30:00", 'petition_16.png', 16, 8);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (16, 'History Enthusiast', 'Support for free and gain access to a digital archive of historical photos and documents.', 0);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (16, 33, 17, 'Passionate about preserving our history!', '2024-03-15 09:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (16, 33, 18, null, '2024-03-18 08:30:15');[39m
+
+[31m# Petition 17 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Local Community Sports Equipment Drive', 'Help us gather sports equipment for local community sports programs to ensure all kids have the opportunity to play.', "2024-04-01 14:00:00", 'petition_17.png', 18, 12);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (17, 'Equipment Supporter', 'Show your support and receive a free personalized thank-you e-card.', 0);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (17, 'Gear Champion', 'Sponsor a set of sports gear for a child and receive a thank-you package with photos and updates.', 20);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (17, 34, 1, 'Excited to support youth sports!', '2024-04-05 12:45:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (17, 35, 2, null, '2024-04-08 09:30:15');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (17, 35, 3, 'Happy to make a difference!', '2024-04-12 14:30:40');[39m
+
+[31m# Petition 18 (Generated by ChatGPT)[39m
+[31mINSERT INTO `petition` (`title`, `description`, `creation_date`, `image_filename`, `owner_id`, `category_id`) VALUES ('Community Health and Wellness Workshop', 'Support a health and wellness workshop for the community to learn about fitness, nutrition, and mental health.', "2024-05-01 09:30:00", 'petition_18.png', 11, 4);[39m
+
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (18, 'Wellness Enthusiast', 'Support the workshop and gain free access to materials and resources.', 0);[39m
+[31mINSERT INTO `support_tier` (`petition_id`, `title`, `description`, `cost`) VALUES (18, 'Healthy Living Supporter', 'Sponsor a workshop session and receive a personalized health and fitness plan from our experts.', 30);[39m
+
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (18, 36, 4, 'Excited for the wellness workshop!', '2024-05-05 11:15:22');[39m
+[31mINSERT INTO `supporter` (`petition_id`, `support_tier_id`, `user_id`, `message`, `timestamp`) VALUES (18, 37, 5, null, '2024-05-08 14:30:40');[39m
+2024-03-28 10:10:29:1029 [31merror[39m: [31mTable 'cjo108_assignment1.category' doesn't exist[39m
+2024-03-28 10:10:29:1029 [31merror[39m: [31mTable 'user' already exists[39m
+2024-03-28 10:10:29:1029 [31merror[39m: [31mTable 'user' already exists[39m
+2024-03-28 12:08:57:857 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 12:08:57:857 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 12:21:43:2143 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 12:21:43:2143 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 12:23:58:2358 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 12:23:58:2358 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 12:27:17:2717 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 12:27:18:2718 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 12:37:07:377 [31merror[39m: [31mDuplicate entry 'Local History Preservation' for key 'title'[39m
+2024-03-28 12:38:24:3824 [31merror[39m: [31mDuplicate entry 'Local History Preservation' for key 'title'[39m
+2024-03-28 12:41:55:4155 [31merror[39m: [31mDuplicate entry 'Local History Preservation' for key 'title'[39m
+2024-03-28 12:41:59:4159 [31merror[39m: [31mDuplicate entry 'Local History Preservation' for key 'title'[39m
+2024-03-28 13:35:54:3554 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 13:35:54:3554 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 13:38:06:386 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 13:42:38:4238 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 13:42:39:4239 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 13:44:18:4418 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 13:44:18:4418 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:10:35:1035 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:10:36:1036 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:11:32:1132 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:11:32:1132 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:14:26:1426 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:14:26:1426 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:16:19:1619 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:16:20:1620 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:16:51:1651 [31merror[39m: [31mCannot add or update a child row: a foreign key constraint fails (`cjo108_assignment1`.`petition`, CONSTRAINT `petition_ibfk_2` FOREIGN KEY (`category_id`) REFERENCES `category` (`id`))[39m
+2024-03-28 14:23:07:237 [31merror[39m: [31mCannot use 'in' operator to search for '999999' in undefined[39m
+2024-03-28 14:25:19:2519 [31merror[39m: [31mCannot use 'in' operator to search for '999999' in undefined[39m
+2024-03-28 14:28:27:2827 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:28:44:2844 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT MIN(t.cost) FROM support_tier t WHERE p.id = t.petition_id) <= 10[39m
+[31m    ...' at line 25[39m
+2024-03-28 14:37:38:3738 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND category_id IN ('1', '8') ,AND owner_id = '16' ,AND s.user_id = 17 ,AND (...' at line 25[39m
+2024-03-28 14:37:38:3738 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND category_id IN ('1', '8') ,AND owner_id = '16' ,AND (SELECT MIN(t.cost) F...' at line 25[39m
+2024-03-28 14:37:38:3738 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND category_id IN ('1', '8') ,AND owner_id = '16' ,AND (SELECT MIN(t.cost) F...' at line 25[39m
+2024-03-28 14:37:38:3738 [31merror[39m: [31mYou have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND category_id IN ('1', '8') ,AND owner_id = '16' ,AND (SELECT MIN(t.cost) F...' at line 25[39m
